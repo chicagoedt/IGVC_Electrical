@@ -1,0 +1,28 @@
+Info: Reading netlist file "C:\Users\heman_000\Desktop\E-stop_Kicad\E-stop_Drawing\kicadsigmux\dfdfdf2.net".
+
+Info: Using references to match components and footprints.
+
+Error: No footprint defined for component 'U1'.
+
+Error: No footprint defined for component 'P1'.
+
+Error: No footprint defined for component 'P2'.
+
+Error: No footprint defined for component 'P3'.
+
+Info: Checking netlist component footprint "P1:/56EA1A74:".
+
+Error: Cannot add new component "P1:/56EA1A74" due to missing footprint "".
+
+Info: Checking netlist component footprint "P2:/56EA1C00:".
+
+Error: Cannot add new component "P2:/56EA1C00" due to missing footprint "".
+
+Info: Checking netlist component footprint "P3:/56EA1C27:".
+
+Error: Cannot add new component "P3:/56EA1C27" due to missing footprint "".
+
+Info: Checking netlist component footprint "U1:/56D7E358:".
+
+Error: Cannot add new component "U1:/56D7E358" due to missing footprint "".
+
